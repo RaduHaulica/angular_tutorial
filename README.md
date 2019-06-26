@@ -1,2 +1,2 @@
 # angular_tutorial
-Tour of Heroes app from official AngularJS dos
+Tour of Heroes app from official AngularJS docs
